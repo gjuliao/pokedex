@@ -1,0 +1,32 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.projects {
+  width: 90%;
+}
+
+.card {
+  width: 16rem;
+}
+
+.heart-icon {
+  cursor: pointer;
+}
+
+.liked {
+  color: red;
+}
+
+.btn-card {
+  margin: auto;
+}
+
+strong {
+  font-weight: bold;
+}
